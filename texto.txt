@@ -1,1 +1,2 @@
 this new lines were added at 11:14 am
+new version of the texto.txt file 
